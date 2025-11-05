@@ -26,16 +26,9 @@ st.markdown(
 
 
 # add web page of it
-"Solve equations in three values at maximum to solve something as closed ohm electric circut"
 
 st.markdown("""
-    <h1 style="text-align:center;"> Solve The Equation In One to Five Variables Of One Degree</h1>
-""",unsafe_allow_html=True)
-
-st.markdown("""
-
-    <h5 style="text-align=center;">Enter the number of variables</h5>
-
+    <h1 style="text-align:center;"> Solve The Equation In One to Three Variables Of One Degree</h1>
 """,unsafe_allow_html=True)
 
 st.markdown("""
@@ -44,6 +37,14 @@ st.markdown("""
     <h6>You will enter the CEOs of the vriables and value of 'a'</h6>       
 </div>
 """,unsafe_allow_html=True)
+
+st.markdown("""
+
+    <h5 style="text-align=center;">Enter the number of variables</h5>
+
+""",unsafe_allow_html=True)
+
+
 
 
 number_variables=st.selectbox("",options=[1,2,3])

@@ -1,0 +1,8 @@
+rdkit-pypi
+chempy
+streamlit
+numpy
+matplotlib
+pandas
+biopython
+sympy

@@ -29,7 +29,7 @@ st.markdown("""
     """,unsafe_allow_html=True)
 
 
-tab1,tab2,tab3=st.tabs(["Tab_1","Tab_2","tab_3"])
+tab1,tab2=st.tabs(["Tab_1","Tab_2"])
 with tab1:
 
     check_letters={"A","C","T","G"}
