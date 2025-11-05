@@ -4,7 +4,7 @@
 
 ## First Page:
 - Balancing ---> you can enter the reactant and the products without any coe for the compounds or element and the program will balance it
-<img src"axiom/1.png" width=400>
+<img src="axiom/1.png" width=400>
 
 
 ## Second Page
